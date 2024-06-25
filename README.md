@@ -1,16 +1,25 @@
-## Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Dang Khoi. I am currently pursuing a B.Sc. degree, Majoring in Artificial Intelligence. I am interested in the following topics: Machine Learning, Data Science and Deep Learning in Computer Vision.
 
-<!--
-**kiokpam/kiokpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out to me with any relevant opportunities.<br>
 
-Here are some ideas to get you started:
+- 📫 How to reach me **ngogiahuy20012004@gmail.com**
+  
+## 🔭  Other contents: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kiokpam/) 
+
+
+
+
+# 💻Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+
+
+
+# 📊GitHub Stats :
+![Huy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kiokpam&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
